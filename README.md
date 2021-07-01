@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
+<img src="https://arquivo.devmedia.com.br/noticias/documentacao/documentacao_angular-cli-como-rodar-testes-e-checar-o-codigo_38248.png"/>
